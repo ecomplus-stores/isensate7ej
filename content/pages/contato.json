@@ -1,6 +1,6 @@
 {
-  "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "Atendimento",
+  "meta_title": "Atendimento",
+  "meta_description": "Na iSensat, oferecemos um atendimento humanizado e focado na experiência do cliente, garantindo que cada interação seja única e personalizada.",
+  "body": "<p>&nbsp;</p>\n<h2><strong>Canais de Atendimento</strong></h2>\n<p>WhatsApp:&nbsp;44 9832-6557</p>\n<p>Email: suporte@isensat.com.br</p>\n<p><strong>Horário de atendimento</strong><br>Segunda à Sexta,&nbsp;<strong>9:00h</strong>&nbsp;às&nbsp;<strong>18:00h</strong></p>\n<p>{{CONTACT_FORM}}</p>"
 }
