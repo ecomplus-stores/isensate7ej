@@ -4,9 +4,9 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "cyborg",
-    "custom": "clean-dark"
+    "custom": "_"
   },
-  "bg_color": "#9d9898",
+  "bg_color": "#0f0000",
   "repository": "ecomplus-stores/isensate7ej",
   "logo": "/img/uploads/259331c55ab1ae283ccfa52f3da094b3.webp",
   "name": "iSensat Safe Buy",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Poppins",
   "favicon": "/img/uploads/259331c55ab1ae283ccfa52f3da094b3.webp",
   "icons_font": "_",
   "country_code": "BR",
