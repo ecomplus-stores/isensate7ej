@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entrega em todo Brasil. Produtos em estoque.",
+    "title": "Entrega Garantida"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele suas compras em até 3x sem juros no cartão.",
+    "title": "Parcelamento"
   },
   "exchange": {
     "show": true,
