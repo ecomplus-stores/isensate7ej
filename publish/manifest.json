@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.28f12426a35cfc86e4ec44b54cc66396.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.3dfa624a5d296ba1e8cdf21b01a4f876.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.66de61d92049810e62542ac2097122c1.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.8323a4f9d332ab9b449e85c3868af961.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.ddc6699589cdf1790ee97ab5a62660d9.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "iSensat Safe Buy",
+  "short_name": "iSensat",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A iSensat é especializada em eletrônicos, focada em receptores de TV. Oferecemos qualidade, tecnologia e um atendimento dedicado para garantir a satisfação total dos nossos clientes.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
