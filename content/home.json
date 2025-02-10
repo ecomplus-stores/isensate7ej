@@ -5,14 +5,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/c85683cd8342684f0e72e8c002e9fb06.webp",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "start": "2025-02-10T20:04:36.058Z",
+          "end": "",
           "mobile_img": ""
         },
         {
