@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cyborg",
+    "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#9d9898",
   "repository": "ecomplus-stores/isensate7ej",
   "logo": "/img/uploads/259331c55ab1ae283ccfa52f3da094b3.webp",
   "name": "iSensat Safe Buy",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/259331c55ab1ae283ccfa52f3da094b3.webp",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/img-20240210-wa0000.jpg",
   "store_id": 51585,
   "description": "A iSensat é especializada em eletrônicos, focada em receptores de TV. Oferecemos qualidade, tecnologia e um atendimento dedicado para garantir a satisfação total dos nossos clientes. ",
