@@ -22,10 +22,11 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/fhb-rack-delivery-seguro.webp",
       "alt": "Secure connection",
       "width": 150,
-      "height": 62
+      "height": 62,
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.isensat.com.br&hl=pt_BR"
     },
     {
       "src": "/img/uploads/midiakit_isensat_generic_stamp-1-.png",
