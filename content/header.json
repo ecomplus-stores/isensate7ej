@@ -1,14 +1,18 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/receptores?Receptores"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "RA Verificada - Essa Empresa Possui Selo de Confiança do Reclame Aqui.",
-    "link": "https://www.reclameaqui.com.br/empresa/isensat/"
+    "link": "https://www.reclameaqui.com.br/empresa/isensat/",
+    "background": "#ffffff",
+    "color": "#000000"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
