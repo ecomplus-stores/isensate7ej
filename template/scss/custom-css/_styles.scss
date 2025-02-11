@@ -1,1 +1,13 @@
 // Add your custom CSS here.
+.stamps {
+  display: flex;
+  gap: 10px; /* Espaço entre os selos */
+  list-style: none; /* Remove os estilos padrão da lista */
+  padding: 0;
+  margin: 0;
+  align-items: center; /* Alinha os selos verticalmente */
+}
+
+.stamps li {
+  display: inline-block;
+}
