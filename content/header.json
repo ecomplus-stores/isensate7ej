@@ -11,8 +11,8 @@
   "marketing_stripe": {
     "text": "RA Verificada - Essa Empresa Possui Selo de Confiança do Reclame Aqui.",
     "link": "https://www.reclameaqui.com.br/empresa/isensat/",
-    "background": "#ffffff",
-    "color": "#000000"
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
