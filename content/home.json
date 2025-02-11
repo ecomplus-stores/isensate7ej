@@ -55,6 +55,12 @@
       "limit": 12,
       "page": 1,
       "collection_id": "67aa1bdf53d3dd5b9c63fa90:categories:Stick [Somente Internet]:/stick-somente-internet"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/suporte-isensat-melhor-loja-receptor.png",
+      "mobile_img": "/img/uploads/suporte-isensat.png",
+      "link": "https://api.whatsapp.com/send?phone=5544998326557&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20produtos."
     }
   ]
 }
