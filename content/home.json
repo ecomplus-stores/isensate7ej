@@ -48,6 +48,13 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/1738863704_1738863704_67a4f458cc18a.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "67aa1bdf53d3dd5b9c63fa90:categories:Stick [Somente Internet]:/stick-somente-internet"
     }
   ]
 }
